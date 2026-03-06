@@ -11,10 +11,10 @@ I’m [**Prithvi Raj**](https://prithvikings.me/), a Full Stack Developer and AI
 
 **Some stuff I built:**
 - [**BuddyBuild**](https://github.com/prithvikings/BuddyBuild) — An AI-powered code reviewer with persona-based analysis and ~52ms queue latency.
-- [**GreetCode**](https://github.com/prithvikings/GreetCode) — A LeetCode-style platform with an in-browser IDE and real-time execution via Judge0.
-- [**Simplay**](https://github.com/prithvikings/Simplay) — Interactive video learning that extracts YouTube transcripts for AI summarization.
+- [**GreetCode**](https://github.com/prithvikings/greetCode) — A LeetCode-style platform with an in-browser IDE and real-time execution via Judge0.
+- [**Simplay**](https://github.com/prithvikings/simplay) — Interactive video learning that extracts YouTube transcripts for AI summarization.
 - [**DevPostGen**](https://github.com/prithvikings/DevPostGen) — A Chrome extension and web app that turns GitHub activity into shareable social posts.
-- [**YouTube Downloader**](https://github.com/prithvikings/youtubeDl) — A full-stack tool using SSE for real-time progress and 4K support.
+- [**YouTube Downloader**](https://github.com/prithvikings/StreamRip) — A full-stack tool using SSE for real-time progress and 4K support.
 
 ---
 
