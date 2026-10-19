@@ -1,0 +1,9 @@
+# Private local portrait inputs/intermediates: never commit personal photos
+source-photo.jpg
+source-photo.jpeg
+source-photo.png
+source-prepped.png
+*.prepped.png
+.venv/
+__pycache__/
+*.py[cod]
