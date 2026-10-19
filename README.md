@@ -1,37 +1,26 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+<div align="center">
 
-I’m [**Prithvi Raj**](https://prithvikings.me/), a Full Stack Developer and AI Enthusiast based in India. I enjoy building high-performance systems, integrating LLMs into web apps, and solving complex algorithmic challenges.
-
-**These days I’m focused on:**
-- Scaling AI-driven SaaS platforms with **Node.js** and **Gemini**.
-- Optimizing background task processing using **Redis** and **BullMQ**.
-- Mastering modern frontend stacks with **React 19** and **Tailwind CSS 4**.
-
----
-
-**Some stuff I built:**
-- [**BuddyBuild**](https://github.com/prithvikings/BuddyBuild) — An AI-powered code reviewer with persona-based analysis and ~52ms queue latency.
-- [**GreetCode**](https://github.com/prithvikings/greetCode) — A LeetCode-style platform with an in-browser IDE and real-time execution via Judge0.
-- [**Simplay**](https://github.com/prithvikings/simplay) — Interactive video learning that extracts YouTube transcripts for AI summarization.
-- [**DevPostGen**](https://github.com/prithvikings/DevPostGen) — A Chrome extension and web app that turns GitHub activity into shareable social posts.
-- [**YouTube Downloader**](https://github.com/prithvikings/StreamRip) — A full-stack tool using SSE for real-time progress and 4K support.
-
----
-
-### 🛠️ Technical Skills
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-orange?style=flat) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
-| **AI & Cloud** | ![Google Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat&logo=googlegemini&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-
----
-
-**Fun Facts:**
-* I’ve solved **650+ coding problems** with a 160+ day streak.
-* I'm a certified **Oracle Cloud Infrastructure GenAI Professional**.
-* **Achievements:** 2nd place in Cipherthon 2.0 and 1st in Zerodha Varsity quiz.
-* **Hobbies:** Solving DSA problems and exploring new AI models.
+<h3><code>prithvikings@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Prithvi's GitHub contribution calendar" />
+<br><br>
+<h3><code>prithvikings@github ~ $ whoami</code></h3>
+<table><tr>
+<td valign="top"><img src="./prithvi-ascii.svg" width="420" alt="Animated ASCII portrait of Prithvi Raj" /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Prithvi's developer information card" /></td>
+</tr></table>
+<br><br>
+<h3><code>prithvikings@github ~ $ ./stats.sh</code></h3>
+<img src="./stats.svg" width="860" alt="GitHub contribution and streak statistics" />
+<br><br>
+<h3><code>prithvikings@github ~ $ ls ./projects</code></h3>
+<table>
+<tr><td valign="top" width="50%"><b><a href="https://github.com/prithvikings/BuddyBuild">BuddyBuild</a></b><br>AI-powered code review with persona-based analysis.</td><td valign="top" width="50%"><b><a href="https://github.com/prithvikings/greetCode">GreetCode</a></b><br>Coding-practice platform with an in-browser IDE and Judge0 execution.</td></tr>
+<tr><td valign="top"><b><a href="https://github.com/prithvikings/simplay">Simplay</a></b><br>Video learning with transcript extraction and AI summarization.</td><td valign="top"><b><a href="https://github.com/prithvikings/DevPostGen">DevPostGen</a></b><br>Turn GitHub activity into shareable developer posts.</td></tr>
+</table>
+<br>
+<h3><code>prithvikings@github ~ $ ./links.sh</code></h3>
+<p><b>Full Stack Developer · AI Enthusiast · Builder</b></p>
+<a href="https://prithvikings.me/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-prithvikings.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/prithvikings"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-prithvikings-0d1117?style=for-the-badge&logo=github&logoColor=white"></a>
+<br><br><sub>Built with Python, SVG, and GitHub Actions. Contribution art refreshes daily.</sub>
+</div>
