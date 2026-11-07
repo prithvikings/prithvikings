@@ -1,4 +1,5 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+### Hi there! <img width="64" height="64" alt="typingcat" src="https://github.com/user-attachments/assets/67753c73-6f79-4d02-86b9-86f904b16e91" />
+
 
 I’m [**Prithvi Raj**](https://prithvikings.me/), a Full Stack Developer and AI Enthusiast based in India. I enjoy building high-performance systems, integrating LLMs into web apps, and solving complex algorithmic challenges.
 
